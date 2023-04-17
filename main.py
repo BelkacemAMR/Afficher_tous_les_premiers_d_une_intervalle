@@ -14,4 +14,7 @@ def print_prime_numbers(x, y):
         if is_prime(num):
             print(num)
 
-
+# Exemple d'utilisation :
+x = 10
+y = 50
+print_prime_numbers(x, y)
