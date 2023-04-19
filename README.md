@@ -9,7 +9,7 @@ Il utilise une fonction is_prime() pour vérifier si un nombre est premier et un
 
 1. Définir les valeurs de x et y dans le code pour spécifier l'intervalle souhaité.
 
-2.Exécuter le programme en utilisant un interpréteur Python.
+2. Exécuter le programme en utilisant un interpréteur Python.
 
 3. Les nombres premiers dans l'intervalle [x, y] seront affichés à l'écran.
 
